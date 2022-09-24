@@ -121,7 +121,7 @@ Flag: JaRkOm2022{8uK4N_CtF_k0k_h3h3h3}
 ![](gambar/Picture18.png)
 
 
-## Kendala Pengerjaan
+## Kendala:
 Adapun kendala yang kami alami selama pengerjaan adalah sebagai berikut:
 1. Dalam melakukan decyrpt des3 terdapat command yang kurang yaitu `- d` sehingga flag-nya tidak kami peroleh.
 2. Dalam menyimpan raw dalam bentuk `.des3` seharusnya kami memberi ekstension tersebut setelah tersimpan dalam media, barulah diberi ekstension bukan pada saat melakukan save as.
