@@ -1,4 +1,10 @@
 # Jarkom-Modul-1-ITB03-2022
+---
+Kelompok ITB03:
+1. Haffif Rasya Fauzi - 5027201002
+2. M. Hilmi Azis - 5027201049
+3. Gennaro Fajar Mende - 5027201061
+---
 
 ## Soal 1
 Sebutkan web server yang digunakan pada "monta.if.its.ac.id"! 
